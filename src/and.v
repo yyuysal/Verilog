@@ -1,6 +1,6 @@
 /*
-A simple 8-bit AND in Verilog' TOP.
-8/
+A simple 8-bit AND in Verilog, TOP.
+*/
 
 module tt_um_and(
   input clk,
