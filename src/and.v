@@ -1,5 +1,5 @@
 /*
-A simple 8-bit AND in Verilog, TOP.
+A simple 8-bit AND in Verilog, TOP. 
 */
 
 module tt_um_and(
@@ -11,6 +11,6 @@ module tt_um_and(
 
   assign Y = a & b;
 
-
+       
 
 endmodule
